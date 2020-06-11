@@ -1,4 +1,4 @@
-
+* {font-family: 'Titillium Web', sans-serif;}
 h1 {
     color:plum;
     font-size: 40pt;
@@ -24,31 +24,20 @@ img {
     opacity: 0.4;
 }
 .button {
-    background-color:blue;
+    background-color: whitesmoke;
     border: black;
     color:whitesmoke;
     padding: 30px 40px;
     text-align: center;
-    text-decoration: slateblue;
+    text-decoration:black;
     display: inline-block;
     margin: 4px 2px;
     cursor: pointer;
     border-radius: 50px;
     font-size: large;
   }
-  body, html {
-    height: 100%;
-  }
-  
-  .bg { 
-    /* The image used */
-    background-image: url("Bridge.jpg");
-  
-    /* Full height */
-    height: 100%; 
-  
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    
+
+{
+.turnblue
+    color: blue:
+}
